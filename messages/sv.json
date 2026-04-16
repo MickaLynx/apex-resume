@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Ditt CV,",
+    "hero_highlight": "perfektionerat av AI",
+    "hero_subtitle": "AI skriver, poängsätter och skräddarsyr ditt CV till varje jobbannonse. Klara ATS-screening. Få fler intervjuer.",
+    "cta_primary": "Bygg ditt CV — Gratis",
+    "cta_secondary": "Se priser",
+    "social_proof": "4M+ CV skapade. Inget kreditkort krävs.",
+    "feature_scoring": "AI-poängsättning",
+    "feature_scoring_desc": "23 kriterier analyserade i realtid. Vet exakt var du ska förbättra dig.",
+    "feature_tailoring": "Jobbanpassning",
+    "feature_tailoring_desc": "Klistra in en jobbeskrivning. AI anpassar ditt CV för att matcha.",
+    "feature_ats": "ATS-säkrat",
+    "feature_ats_desc": "Garanterat att klara sökandespårningssystem. Inga tabeller, inga bilder."
+  },
+  "pricing": {
+    "title": "Enkel, transparent prissättning",
+    "subtitle": "Inga dolda avgifter. Avbryt när som helst. 30 dagars pengarna-tillbaka-garanti.",
+    "free_name": "Gratis",
+    "free_desc": "Kom igång med grundläggande CV-bygge.",
+    "free_cta": "Starta gratis",
+    "pro_name": "Pro",
+    "pro_desc": "Allt du behöver för att få ditt drömjobb.",
+    "pro_cta": "Starta 7-dagars gratis provperiod",
+    "lifetime_name": "Livstid",
+    "lifetime_desc": "Betala en gång, använd för alltid. Bästa värde.",
+    "lifetime_cta": "Få livstidsåtkomst",
+    "most_popular": "Mest populär",
+    "questions": "Frågor? Skicka e-post till support@apexresume.ai",
+    "powered_by": "Drivs av QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 PDF-nedladdningar",
+    "basic_ai": "Grundläggande AI-förslag",
+    "ats_check": "ATS-kompatibilitetskontroll",
+    "unlimited_resumes": "Obegränsade CV",
+    "unlimited_downloads": "Obegränsade nedladdningar",
+    "full_ai": "Full AI-generering och poängsättning",
+    "job_tailoring": "Jobbspecifik anpassning",
+    "cover_letter": "Personligt brev-generering",
+    "monthly_review": "Månadsvis expertgranskning",
+    "priority_support": "Prioriterat stöd",
+    "everything_pro": "Allt i Pro",
+    "lifetime_access": "Livstidsåtkomst",
+    "future_updates": "Alla framtida uppdateringar",
+    "no_recurring": "Inga återkommande avgifter"
+  },
+  "nav": {
+    "login": "Logga in",
+    "signup": "Registrera dig",
+    "dashboard": "Instrumentpanel",
+    "pricing": "Priser"
+  },
+  "meta": {
+    "title": "ApexResume — AI CV-byggare",
+    "description": "Bygg ATS-optimerade CV med AI. Poängsätt, anpassa och ladda ner professionella CV på minuter."
+  },
+  "footer": {
+    "rights": "Alla rättigheter förbehållna."
+  }
+}

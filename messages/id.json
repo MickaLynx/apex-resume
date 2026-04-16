@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Resume Anda,",
+    "hero_highlight": "disempurnakan oleh AI",
+    "hero_subtitle": "AI menulis, menilai, dan menyesuaikan resume Anda untuk setiap lowongan pekerjaan. Lolos penyaringan ATS. Dapatkan lebih banyak wawancara.",
+    "cta_primary": "Buat Resume Anda — Gratis",
+    "cta_secondary": "Lihat Harga",
+    "social_proof": "4M+ resume dibuat. Tidak perlu kartu kredit.",
+    "feature_scoring": "Penilaian AI",
+    "feature_scoring_desc": "23 kriteria dianalisis secara real-time. Ketahui dengan tepat di mana harus meningkatkan.",
+    "feature_tailoring": "Penyesuaian Pekerjaan",
+    "feature_tailoring_desc": "Tempel deskripsi pekerjaan. AI menyesuaikan resume Anda agar cocok.",
+    "feature_ats": "Tahan ATS",
+    "feature_ats_desc": "Dijamin lolos Sistem Pelacakan Pelamar. Tidak ada tabel, tidak ada gambar."
+  },
+  "pricing": {
+    "title": "Harga sederhana dan transparan",
+    "subtitle": "Tidak ada biaya tersembunyi. Batalkan kapan saja. Garansi uang kembali 30 hari.",
+    "free_name": "Gratis",
+    "free_desc": "Mulai dengan pembuatan resume dasar.",
+    "free_cta": "Mulai Gratis",
+    "pro_name": "Pro",
+    "pro_desc": "Semua yang Anda butuhkan untuk mendapatkan pekerjaan impian.",
+    "pro_cta": "Mulai uji coba gratis 7 hari",
+    "lifetime_name": "Seumur Hidup",
+    "lifetime_desc": "Bayar sekali, gunakan selamanya. Nilai terbaik.",
+    "lifetime_cta": "Dapatkan Akses Seumur Hidup",
+    "most_popular": "Paling Populer",
+    "questions": "Pertanyaan? Email support@apexresume.ai",
+    "powered_by": "Didukung oleh QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 resume",
+    "3_downloads": "3 unduhan PDF",
+    "basic_ai": "Saran AI dasar",
+    "ats_check": "Pemeriksaan kompatibilitas ATS",
+    "unlimited_resumes": "Resume tidak terbatas",
+    "unlimited_downloads": "Unduhan tidak terbatas",
+    "full_ai": "Pembuatan & penilaian AI penuh",
+    "job_tailoring": "Penyesuaian khusus pekerjaan",
+    "cover_letter": "Pembuatan surat lamaran",
+    "monthly_review": "Tinjauan ahli bulanan",
+    "priority_support": "Dukungan prioritas",
+    "everything_pro": "Semua di Pro",
+    "lifetime_access": "Akses seumur hidup",
+    "future_updates": "Semua pembaruan di masa mendatang",
+    "no_recurring": "Tidak ada biaya berulang"
+  },
+  "nav": {
+    "login": "Masuk",
+    "signup": "Daftar",
+    "dashboard": "Dasbor",
+    "pricing": "Harga"
+  },
+  "meta": {
+    "title": "ApexResume — Pembuat Resume AI",
+    "description": "Buat resume yang dioptimalkan ATS dengan AI. Nilai, sesuaikan, dan unduh resume profesional dalam hitungan menit."
+  },
+  "footer": {
+    "rights": "Semua hak dilindungi."
+  }
+}

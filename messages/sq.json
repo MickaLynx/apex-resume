@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "CV-ja juaj,",
+    "hero_highlight": "e përsosur nga AI",
+    "hero_subtitle": "AI shkruan, vlerëson dhe përshtat CV-në tuaj për çdo shpallje pune. Kaloni filtrimin ATS. Merrni më shumë intervista.",
+    "cta_primary": "Ndërtoni CV-në Tuaj — Falas",
+    "cta_secondary": "Shiko Çmimet",
+    "social_proof": "Mbi 4M CV të krijuara. Nuk kërkohet kartë krediti.",
+    "feature_scoring": "Vlerësimi i AI",
+    "feature_scoring_desc": "23 kritere të analizuara në kohë reale. Dini saktësisht ku të përmirësoheni.",
+    "feature_tailoring": "Përshtatja për punën",
+    "feature_tailoring_desc": "Ngjitni një përshkrim pune. AI përshtat CV-në tuaj.",
+    "feature_ats": "I sigurt nga ATS",
+    "feature_ats_desc": "Garantuar të kalojë Sistemet e Gjurmimit të Aplikantëve. Pa tabela, pa imazhe."
+  },
+  "pricing": {
+    "title": "Çmime të thjeshta dhe transparente",
+    "subtitle": "Pa tarifa të fshehura. Anuloni kur të doni. Garanci 30-ditore për rimbursim.",
+    "free_name": "Falas",
+    "free_desc": "Filloni me ndërtimin bazë të CV-së.",
+    "free_cta": "Fillo Falas",
+    "pro_name": "Pro",
+    "pro_desc": "Gjithçka ju nevojitet për të marrë punën e ëndrrave tuaja.",
+    "pro_cta": "Filloni provën falas 7-ditore",
+    "lifetime_name": "Gjatë Gjithë Jetës",
+    "lifetime_desc": "Paguani njëherë, përdorni përgjithmonë. Vlera më e mirë.",
+    "lifetime_cta": "Merrni Qasje Gjatë Gjithë Jetës",
+    "most_popular": "Më i Popullarizuari",
+    "questions": "Pyetje? Dërgoni email në support@apexresume.ai",
+    "powered_by": "Mundësuar nga QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 shkarkime PDF",
+    "basic_ai": "Sugjerime bazë të AI",
+    "ats_check": "Kontroll i pajtueshmerisë ATS",
+    "unlimited_resumes": "CV të pakufizuara",
+    "unlimited_downloads": "Shkarkime të pakufizuara",
+    "full_ai": "Gjenerim dhe vlerësim i plotë i AI",
+    "job_tailoring": "Përshtatje specifike pune",
+    "cover_letter": "Gjenerim i letrës motivuese",
+    "monthly_review": "Rishikim mujor nga ekspertët",
+    "priority_support": "Mbështetje me prioritet",
+    "everything_pro": "Gjithçka në Pro",
+    "lifetime_access": "Qasje gjatë gjithë jetës",
+    "future_updates": "Të gjitha përditësimet e ardhshme",
+    "no_recurring": "Pa tarifa të përsëritura"
+  },
+  "nav": {
+    "login": "Hyr",
+    "signup": "Regjistrohu",
+    "dashboard": "Paneli",
+    "pricing": "Çmimet"
+  },
+  "meta": {
+    "title": "ApexResume — Ndërtues CV me AI",
+    "description": "Ndërtoni CV të optimizuara për ATS me AI. Vlerësoni, përshtasni dhe shkarkoni CV profesionale brenda minutave."
+  },
+  "footer": {
+    "rights": "Të gjitha të drejtat të rezervuara."
+  }
+}

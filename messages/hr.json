@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Vaš životopis,",
+    "hero_highlight": "usavršen umjetnom inteligencijom",
+    "hero_subtitle": "AI piše, ocjenjuje i prilagođava vaš životopis svakom oglasu za posao. Prođite ATS pregled. Dobijte više razgovora.",
+    "cta_primary": "Izgradite životopis — Besplatno",
+    "cta_secondary": "Pogledajte cijene",
+    "social_proof": "4M+ životopisa stvoreno. Kreditna kartica nije potrebna.",
+    "feature_scoring": "AI ocjenjivanje",
+    "feature_scoring_desc": "23 kriterija analizirana u stvarnom vremenu. Znate točno gdje se poboljšati.",
+    "feature_tailoring": "Prilagodba poslu",
+    "feature_tailoring_desc": "Zalijepite opis posla. AI prilagođava vaš životopis.",
+    "feature_ats": "ATS-zaštićen",
+    "feature_ats_desc": "Zajamčeno prolazi sustave praćenja kandidata. Bez tablica, bez slika."
+  },
+  "pricing": {
+    "title": "Jednostavno, transparentno određivanje cijena",
+    "subtitle": "Bez skrivenih naknada. Otkažite bilo kada. 30-dnevno jamstvo povrata novca.",
+    "free_name": "Besplatno",
+    "free_desc": "Počnite s osnovnom izradom životopisa.",
+    "free_cta": "Počni besplatno",
+    "pro_name": "Pro",
+    "pro_desc": "Sve što trebate za dobivanje posla iz snova.",
+    "pro_cta": "Počni 7-dnevno besplatno probno razdoblje",
+    "lifetime_name": "Doživotno",
+    "lifetime_desc": "Platite jednom, koristite zauvijek. Najbolja vrijednost.",
+    "lifetime_cta": "Dobijte doživotni pristup",
+    "most_popular": "Najpopularnije",
+    "questions": "Pitanja? Pošaljite e-poštu na support@apexresume.ai",
+    "powered_by": "Pokreće QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 životopis",
+    "3_downloads": "3 PDF preuzimanja",
+    "basic_ai": "Osnovni AI prijedlozi",
+    "ats_check": "Provjera ATS kompatibilnosti",
+    "unlimited_resumes": "Neograničeni životopisi",
+    "unlimited_downloads": "Neograničena preuzimanja",
+    "full_ai": "Potpuno AI generiranje i ocjenjivanje",
+    "job_tailoring": "Prilagodba specifičnom poslu",
+    "cover_letter": "Generiranje popratnog pisma",
+    "monthly_review": "Mjesečni stručni pregled",
+    "priority_support": "Prioritetna podrška",
+    "everything_pro": "Sve iz Pro",
+    "lifetime_access": "Doživotni pristup",
+    "future_updates": "Sva buduća ažuriranja",
+    "no_recurring": "Bez ponavljajućih naknada"
+  },
+  "nav": {
+    "login": "Prijava",
+    "signup": "Registracija",
+    "dashboard": "Nadzorna ploča",
+    "pricing": "Cijene"
+  },
+  "meta": {
+    "title": "ApexResume — AI kreator životopisa",
+    "description": "Izgradite ATS-optimizirane životopise pomoću AI-a. Ocijenite, prilagodite i preuzmite profesionalne životopise za nekoliko minuta."
+  },
+  "footer": {
+    "rights": "Sva prava pridržana."
+  }
+}

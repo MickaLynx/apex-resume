@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Ձեր ռեզյումեն,",
+    "hero_highlight": "կատարելագործված AI-ի կողմից",
+    "hero_subtitle": "AI-ն գրում, գնահատում և հարմարեցնում է ձեր ռեզյումեն յուրաքանչյուր աշխատանքի հայտարարությանը: Անցեք ATS զտումը: Ստացեք ավելի շատ հարցազրույցներ:",
+    "cta_primary": "Կառուցեք ձեր ռեզյումեն — Անվճար",
+    "cta_secondary": "Տեսնել գները",
+    "social_proof": "Ստեղծված է ավելի քան 4 մլն ռեզյումե: Վարկային քարտ չի պահանջվում:",
+    "feature_scoring": "AI գնահատում",
+    "feature_scoring_desc": "23 չափանիշ վերլուծված իրական ժամանակում: Ճիշտ իմացեք, թե որտեղ բարելավել:",
+    "feature_tailoring": "Աշxatanqui harmareтzum",
+    "feature_tailoring_desc": "Տեղադրեք աշxatanqui nkaragirutyun: AI-n harmareтznum e dzer rezymeen:",
+    "feature_ats": "ATS-կայուն",
+    "feature_ats_desc": "Երাշkhavoryatsvatz e anел dimordnerin hetahsmank'i hamakargeri miджov: Vocch ashkhatasoуtzkner, vocch patker:"
+  },
+  "pricing": {
+    "title": "Պարzik, t'afantsik gnagoyatzmun",
+    "subtitle": "Так'nvatz varchavorutyunner chkan: Cheghareqk yerek vor lazum e: 30-orya fulsi veraparzhman yeraшkhikhtyun:",
+    "free_name": "Anvchar",
+    "free_desc": "Skseqk rezymei him steghtzmamb:",
+    "free_cta": "Sksel Anvchar",
+    "pro_name": "Pro",
+    "pro_desc": "Amen inch vor pakhanqum eq dzez yerazankneri asxatanqi hamar:",
+    "pro_cta": "Sksel 7-orya anvchar satesto period",
+    "lifetime_name": "Czkyans",
+    "lifetime_desc": "Varcheqk mek angam, ogtvogortsеqk hamavayk: Lavaguyn artzyunk:",
+    "lifetime_cta": "Stanak Czkyans Hasanetiotyun",
+    "most_popular": "Amen taratsvatze",
+    "questions": "Hartzumner? Ugarkek el. post support@apexresume.ai-in",
+    "powered_by": "Sharzvoum e QubitumAI-i koghmic"
+  },
+  "features": {
+    "1_resume": "1 rezyume",
+    "3_downloads": "3 PDF bzrmumn",
+    "basic_ai": "AI-i him ardzunkner",
+    "ats_check": "ATS hamapataskhanutyun shermavorum",
+    "unlimited_resumes": "Anseghman rezyumener",
+    "unlimited_downloads": "Anseghman bzrmumner",
+    "full_ai": "Lriv AI steghtzoum yev gnahatоum",
+    "job_tailoring": "Asxatanqi-spetsifik harmareтzum",
+    "cover_letter": "Usetsagir nkaragir",
+    "monthly_review": "Amseakan mdasnagitakan verakayoum",
+    "priority_support": "Grjakanutyamb arganakоum",
+    "everything_pro": "Amsene Pro-yum",
+    "lifetime_access": "Czkyans hasanetiotyun",
+    "future_updates": "Apsaga bolor tzngroutyunner",
+    "no_recurring": "Kayoun verchberumner chkan"
+  },
+  "nav": {
+    "login": "Մուտք",
+    "signup": "Գрantzum",
+    "dashboard": "Karavarich panel",
+    "pricing": "Gnere"
+  },
+  "meta": {
+    "title": "ApexResume — AI Rezyume Steghtsogh",
+    "description": "Karourer ATS-optimalizovats rezumener AI-ov: Gnahateqk, harmareтzeqk ev bzreqk masznagin rezumener vark'yanots'arat impul."
+  },
+  "footer": {
+    "rights": "Bolor iravounknere pahpаnvats en."
+  }
+}

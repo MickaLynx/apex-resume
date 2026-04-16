@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "CV-ul tău,",
+    "hero_highlight": "perfecționat de AI",
+    "hero_subtitle": "AI scrie, punctează și adaptează CV-ul tău pentru fiecare ofertă de muncă. Treci de filtrarea ATS. Obține mai multe interviuri.",
+    "cta_primary": "Creează CV-ul tău — Gratuit",
+    "cta_secondary": "Vezi prețuri",
+    "social_proof": "4M+ CV-uri create. Nu este necesară cardul de credit.",
+    "feature_scoring": "Punctare AI",
+    "feature_scoring_desc": "23 de criterii analizate în timp real. Știi exact unde să te îmbunătățești.",
+    "feature_tailoring": "Adaptare la job",
+    "feature_tailoring_desc": "Inserați o descriere a jobului. AI adaptează CV-ul tău pentru a se potrivi.",
+    "feature_ats": "Rezistent la ATS",
+    "feature_ats_desc": "Garantat că trece prin sistemele de urmărire a candidaților. Fără tabele, fără imagini."
+  },
+  "pricing": {
+    "title": "Prețuri simple și transparente",
+    "subtitle": "Fără taxe ascunse. Anulare oricând. Garanție de returnare a banilor 30 de zile.",
+    "free_name": "Gratuit",
+    "free_desc": "Începeți cu crearea de bază a CV-ului.",
+    "free_cta": "Începe Gratuit",
+    "pro_name": "Pro",
+    "pro_desc": "Tot ce ai nevoie pentru a obține jobul visurilor tale.",
+    "pro_cta": "Începe perioada de probă gratuită de 7 zile",
+    "lifetime_name": "Pe viață",
+    "lifetime_desc": "Plătești o dată, folosești pentru totdeauna. Cea mai bună valoare.",
+    "lifetime_cta": "Obține acces pe viață",
+    "most_popular": "Cel mai popular",
+    "questions": "Întrebări? Trimiteți email la support@apexresume.ai",
+    "powered_by": "Alimentat de QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 descărcări PDF",
+    "basic_ai": "Sugestii AI de bază",
+    "ats_check": "Verificare compatibilitate ATS",
+    "unlimited_resumes": "CV-uri nelimitate",
+    "unlimited_downloads": "Descărcări nelimitate",
+    "full_ai": "Generare și punctare AI completă",
+    "job_tailoring": "Adaptare specifică jobului",
+    "cover_letter": "Generare scrisoare de intenție",
+    "monthly_review": "Revizuire lunară de expert",
+    "priority_support": "Suport prioritar",
+    "everything_pro": "Tot din Pro",
+    "lifetime_access": "Acces pe viață",
+    "future_updates": "Toate actualizările viitoare",
+    "no_recurring": "Fără taxe recurente"
+  },
+  "nav": {
+    "login": "Conectare",
+    "signup": "Înregistrare",
+    "dashboard": "Panou de control",
+    "pricing": "Prețuri"
+  },
+  "meta": {
+    "title": "ApexResume — Creator CV cu AI",
+    "description": "Creați CV-uri optimizate ATS cu AI. Punctați, adaptați și descărcați CV-uri profesionale în câteva minute."
+  },
+  "footer": {
+    "rights": "Toate drepturile rezervate."
+  }
+}

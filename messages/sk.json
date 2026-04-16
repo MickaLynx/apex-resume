@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Váš životopis,",
+    "hero_highlight": "zdokonalený umelou inteligenciou",
+    "hero_subtitle": "UI píše, hodnotí a prispôsobuje váš životopis každej pracovnej ponuke. Prejdite ATS skríningom. Získajte viac pohovorov.",
+    "cta_primary": "Vytvorte životopis — Zadarmo",
+    "cta_secondary": "Zobraziť ceny",
+    "social_proof": "4M+ vytvorených životopisov. Kreditná karta nie je potrebná.",
+    "feature_scoring": "UI hodnotenie",
+    "feature_scoring_desc": "23 kritérií analyzovaných v reálnom čase. Vedzte presne, kde sa zlepšiť.",
+    "feature_tailoring": "Prispôsobenie práci",
+    "feature_tailoring_desc": "Vložte popis pracovnej pozície. UI prispôsobí váš životopis.",
+    "feature_ats": "ATS-odolný",
+    "feature_ats_desc": "Zaručene prejde systémami sledovania uchádzačov. Žiadne tabuľky, žiadne obrázky."
+  },
+  "pricing": {
+    "title": "Jednoduché, transparentné ceny",
+    "subtitle": "Žiadne skryté poplatky. Zrušenie kedykoľvek. 30-dňová záruka vrátenia peňazí.",
+    "free_name": "Zadarmo",
+    "free_desc": "Začnite so základnou tvorbou životopisu.",
+    "free_cta": "Začať zadarmo",
+    "pro_name": "Pro",
+    "pro_desc": "Všetko, čo potrebujete na získanie vysnenej práce.",
+    "pro_cta": "Spustiť 7-dňovú skúšobnú verziu zadarmo",
+    "lifetime_name": "Doživotný",
+    "lifetime_desc": "Zaplaťte raz, používajte navždy. Najlepšia hodnota.",
+    "lifetime_cta": "Získať doživotný prístup",
+    "most_popular": "Najobľúbenejší",
+    "questions": "Otázky? Napíšte na support@apexresume.ai",
+    "powered_by": "Poháňané QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 životopis",
+    "3_downloads": "3 stiahnutia PDF",
+    "basic_ai": "Základné návrhy UI",
+    "ats_check": "Kontrola kompatibility ATS",
+    "unlimited_resumes": "Neobmedzené životopisy",
+    "unlimited_downloads": "Neobmedzené stiahnutia",
+    "full_ai": "Plné generovanie a hodnotenie UI",
+    "job_tailoring": "Prispôsobenie konkrétnej práci",
+    "cover_letter": "Generovanie sprievodného listu",
+    "monthly_review": "Mesačná odborná recenzia",
+    "priority_support": "Prioritná podpora",
+    "everything_pro": "Všetko z Pro",
+    "lifetime_access": "Doživotný prístup",
+    "future_updates": "Všetky budúce aktualizácie",
+    "no_recurring": "Žiadne opakujúce sa poplatky"
+  },
+  "nav": {
+    "login": "Prihlásiť sa",
+    "signup": "Registrovať sa",
+    "dashboard": "Prehľad",
+    "pricing": "Ceny"
+  },
+  "meta": {
+    "title": "ApexResume — Tvorca životopisu s UI",
+    "description": "Vytvárajte ATS-optimalizované životopisy pomocou UI. Hodnoťte, prispôsobujte a sťahujte profesionálne životopisy za minúty."
+  },
+  "footer": {
+    "rights": "Všetky práva vyhradené."
+  }
+}

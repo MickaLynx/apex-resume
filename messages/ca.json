@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "El teu currículum,",
+    "hero_highlight": "perfeccionat per la IA",
+    "hero_subtitle": "La IA escriu, puntua i adapta el teu currículum a cada oferta de feina. Passa el filtratge ATS. Aconsegueix més entrevistes.",
+    "cta_primary": "Crea el teu currículum — Gratuït",
+    "cta_secondary": "Veure preus",
+    "social_proof": "4M+ currículums creats. No es requereix targeta de crèdit.",
+    "feature_scoring": "Puntuació IA",
+    "feature_scoring_desc": "23 criteris analitzats en temps real. Sàpigues exactament on millorar.",
+    "feature_tailoring": "Adaptació a la feina",
+    "feature_tailoring_desc": "Enganxa una descripció de feina. La IA adapta el teu currículum.",
+    "feature_ats": "Prova d'ATS",
+    "feature_ats_desc": "Garantit per superar els sistemes de seguiment de candidats. Sense taules, sense imatges."
+  },
+  "pricing": {
+    "title": "Preus senzills i transparents",
+    "subtitle": "Sense càrrecs ocults. Cancel·la en qualsevol moment. Garantia de devolució de 30 dies.",
+    "free_name": "Gratuït",
+    "free_desc": "Comença amb la creació bàsica de currículums.",
+    "free_cta": "Comença Gratis",
+    "pro_name": "Pro",
+    "pro_desc": "Tot el que necessites per aconseguir la feina dels teus somnis.",
+    "pro_cta": "Comença la prova gratuïta de 7 dies",
+    "lifetime_name": "De per vida",
+    "lifetime_desc": "Paga una vegada, usa per sempre. Millor valor.",
+    "lifetime_cta": "Obtén Accés Vitalici",
+    "most_popular": "Més popular",
+    "questions": "Preguntes? Envia un correu a support@apexresume.ai",
+    "powered_by": "Impulsat per QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 currículum",
+    "3_downloads": "3 descàrregues PDF",
+    "basic_ai": "Suggeriments bàsics de IA",
+    "ats_check": "Comprovació de compatibilitat ATS",
+    "unlimited_resumes": "Currículums il·limitats",
+    "unlimited_downloads": "Descàrregues il·limitades",
+    "full_ai": "Generació i puntuació IA completa",
+    "job_tailoring": "Adaptació específica a la feina",
+    "cover_letter": "Generació de carta de presentació",
+    "monthly_review": "Revisió mensual d'experts",
+    "priority_support": "Suport prioritari",
+    "everything_pro": "Tot de Pro",
+    "lifetime_access": "Accés vitalici",
+    "future_updates": "Totes les actualitzacions futures",
+    "no_recurring": "Sense càrrecs recurrents"
+  },
+  "nav": {
+    "login": "Iniciar sessió",
+    "signup": "Registrar-se",
+    "dashboard": "Tauler",
+    "pricing": "Preus"
+  },
+  "meta": {
+    "title": "ApexResume — Creador de currículums amb IA",
+    "description": "Crea currículums optimitzats per ATS amb IA. Puntua, adapta i descarrega currículums professionals en minuts."
+  },
+  "footer": {
+    "rights": "Tots els drets reservats."
+  }
+}

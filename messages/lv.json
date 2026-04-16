@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Tavs CV,",
+    "hero_highlight": "pilnveidots ar mākslīgo intelektu",
+    "hero_subtitle": "MI raksta, vērtē un pielāgo tavu CV katram darba sludinājumam. Izej ATS skrīningu. Saņem vairāk interviju.",
+    "cta_primary": "Izveido savu CV — Bez maksas",
+    "cta_secondary": "Skatīt cenas",
+    "social_proof": "Izveidoti vairāk nekā 4 miljoni CV. Kredītkarte nav nepieciešama.",
+    "feature_scoring": "MI vērtēšana",
+    "feature_scoring_desc": "23 kritēriji analizēti reāllaikā. Zini tieši, kur uzlaboties.",
+    "feature_tailoring": "Pielāgošana darbam",
+    "feature_tailoring_desc": "Ielīmē darba aprakstu. MI pielāgo tavu CV.",
+    "feature_ats": "ATS-drošs",
+    "feature_ats_desc": "Garantēti iziet cauri kandidātu izsekošanas sistēmām. Bez tabulām, bez attēliem."
+  },
+  "pricing": {
+    "title": "Vienkārša, caurspīdīga cenu noteikšana",
+    "subtitle": "Nav slēpto maksājumu. Atcelt jebkurā laikā. 30 dienu naudas atmaksas garantija.",
+    "free_name": "Bez maksas",
+    "free_desc": "Sāc ar pamata CV veidošanu.",
+    "free_cta": "Sākt bez maksas",
+    "pro_name": "Pro",
+    "pro_desc": "Viss, kas nepieciešams, lai iegūtu sapņu darbu.",
+    "pro_cta": "Sākt 7 dienu bezmaksas izmēģinājumu",
+    "lifetime_name": "Mūža",
+    "lifetime_desc": "Maksā vienreiz, lieto mūžīgi. Labākā vērtība.",
+    "lifetime_cta": "Iegūt mūža piekļuvi",
+    "most_popular": "Vispopulārākais",
+    "questions": "Jautājumi? Sūti e-pastu uz support@apexresume.ai",
+    "powered_by": "Darbina QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 PDF lejupielādes",
+    "basic_ai": "Pamata MI ieteikumi",
+    "ats_check": "ATS saderības pārbaude",
+    "unlimited_resumes": "Neierobežoti CV",
+    "unlimited_downloads": "Neierobežotas lejupielādes",
+    "full_ai": "Pilnīga MI ģenerēšana un vērtēšana",
+    "job_tailoring": "Darbam specifiska pielāgošana",
+    "cover_letter": "Pavadvēstules ģenerēšana",
+    "monthly_review": "Ikmēneša eksperta pārskats",
+    "priority_support": "Prioritārs atbalsts",
+    "everything_pro": "Viss no Pro",
+    "lifetime_access": "Mūža piekļuve",
+    "future_updates": "Visi turpmākie atjauninājumi",
+    "no_recurring": "Nav atkārtotu maksājumu"
+  },
+  "nav": {
+    "login": "Pieteikties",
+    "signup": "Reģistrēties",
+    "dashboard": "Vadības panelis",
+    "pricing": "Cenas"
+  },
+  "meta": {
+    "title": "ApexResume — MI CV veidotājs",
+    "description": "Veido ATS optimizētus CV ar MI. Vērtē, pielāgo un lejupielādē profesionālus CV minūtēs."
+  },
+  "footer": {
+    "rights": "Visas tiesības aizsargātas."
+  }
+}

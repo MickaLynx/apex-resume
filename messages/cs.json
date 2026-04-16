@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Váš životopis,",
+    "hero_highlight": "zdokonalený umělou inteligencí",
+    "hero_subtitle": "AI píše, hodnotí a přizpůsobuje váš životopis každé nabídce práce. Projděte ATS screeningem. Získejte více pohovorů.",
+    "cta_primary": "Vytvořte životopis — Zdarma",
+    "cta_secondary": "Zobrazit ceny",
+    "social_proof": "4M+ vytvořených životopisů. Kreditní karta není vyžadována.",
+    "feature_scoring": "AI hodnocení",
+    "feature_scoring_desc": "23 kritérií analyzovaných v reálném čase. Víte přesně, kde se zlepšit.",
+    "feature_tailoring": "Přizpůsobení práci",
+    "feature_tailoring_desc": "Vložte popis pracovní pozice. AI přizpůsobí váš životopis.",
+    "feature_ats": "ATS-odolný",
+    "feature_ats_desc": "Zaručeně projde systémy sledování uchazečů. Žádné tabulky, žádné obrázky."
+  },
+  "pricing": {
+    "title": "Jednoduché, transparentní ceny",
+    "subtitle": "Žádné skryté poplatky. Zrušení kdykoli. 30denní záruka vrácení peněz.",
+    "free_name": "Zdarma",
+    "free_desc": "Začněte se základním tvorbou životopisu.",
+    "free_cta": "Začít zdarma",
+    "pro_name": "Pro",
+    "pro_desc": "Vše, co potřebujete k získání práce snů.",
+    "pro_cta": "Spustit 7denní zkušební verzi zdarma",
+    "lifetime_name": "Doživotní",
+    "lifetime_desc": "Zaplaťte jednou, používejte navždy. Nejlepší hodnota.",
+    "lifetime_cta": "Získat doživotní přístup",
+    "most_popular": "Nejoblíbenější",
+    "questions": "Dotazy? Napište na support@apexresume.ai",
+    "powered_by": "Poháněno QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 životopis",
+    "3_downloads": "3 stažení PDF",
+    "basic_ai": "Základní návrhy AI",
+    "ats_check": "Kontrola kompatibility ATS",
+    "unlimited_resumes": "Neomezené životopisy",
+    "unlimited_downloads": "Neomezená stažení",
+    "full_ai": "Plné generování a hodnocení AI",
+    "job_tailoring": "Přizpůsobení konkrétní práci",
+    "cover_letter": "Generování průvodního dopisu",
+    "monthly_review": "Měsíční odborná recenze",
+    "priority_support": "Prioritní podpora",
+    "everything_pro": "Vše z Pro",
+    "lifetime_access": "Doživotní přístup",
+    "future_updates": "Všechny budoucí aktualizace",
+    "no_recurring": "Žádné opakující se poplatky"
+  },
+  "nav": {
+    "login": "Přihlásit se",
+    "signup": "Registrovat se",
+    "dashboard": "Přehled",
+    "pricing": "Ceny"
+  },
+  "meta": {
+    "title": "ApexResume — Tvůrce životopisu s AI",
+    "description": "Vytvářejte ATS-optimalizované životopisy pomocí AI. Hodnoťte, přizpůsobujte a stahujte profesionální životopisy během minut."
+  },
+  "footer": {
+    "rights": "Všechna práva vyhrazena."
+  }
+}

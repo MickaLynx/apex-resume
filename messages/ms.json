@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Resume anda,",
+    "hero_highlight": "disempurnakan oleh AI",
+    "hero_subtitle": "AI menulis, menilai, dan menyesuaikan resume anda untuk setiap iklan kerja. Lulus saringan ATS. Dapatkan lebih banyak temu duga.",
+    "cta_primary": "Bina Resume Anda — Percuma",
+    "cta_secondary": "Lihat Harga",
+    "social_proof": "4J+ resume dicipta. Kad kredit tidak diperlukan.",
+    "feature_scoring": "Penilaian AI",
+    "feature_scoring_desc": "23 kriteria dianalisis dalam masa nyata. Tahu dengan tepat di mana untuk diperbaiki.",
+    "feature_tailoring": "Penyesuaian Kerja",
+    "feature_tailoring_desc": "Tampal penerangan kerja. AI menyesuaikan resume anda untuk padanan.",
+    "feature_ats": "Tahan ATS",
+    "feature_ats_desc": "Dijamin lulus Sistem Penjejakan Pemohon. Tiada jadual, tiada imej."
+  },
+  "pricing": {
+    "title": "Penetapan harga yang mudah dan telus",
+    "subtitle": "Tiada bayaran tersembunyi. Batal bila-bila masa. Jaminan wang dikembalikan 30 hari.",
+    "free_name": "Percuma",
+    "free_desc": "Mulakan dengan pembinaan resume asas.",
+    "free_cta": "Mula Percuma",
+    "pro_name": "Pro",
+    "pro_desc": "Semua yang anda perlukan untuk mendapat pekerjaan impian.",
+    "pro_cta": "Mula percubaan percuma 7 hari",
+    "lifetime_name": "Seumur Hidup",
+    "lifetime_desc": "Bayar sekali, guna selama-lamanya. Nilai terbaik.",
+    "lifetime_cta": "Dapatkan Akses Seumur Hidup",
+    "most_popular": "Paling Popular",
+    "questions": "Soalan? E-mel support@apexresume.ai",
+    "powered_by": "Dikuasakan oleh QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 resume",
+    "3_downloads": "3 muat turun PDF",
+    "basic_ai": "Cadangan AI asas",
+    "ats_check": "Semakan keserasian ATS",
+    "unlimited_resumes": "Resume tidak terhad",
+    "unlimited_downloads": "Muat turun tidak terhad",
+    "full_ai": "Penjanaan & penilaian AI penuh",
+    "job_tailoring": "Penyesuaian khusus pekerjaan",
+    "cover_letter": "Penjanaan surat iringan",
+    "monthly_review": "Ulasan pakar bulanan",
+    "priority_support": "Sokongan keutamaan",
+    "everything_pro": "Semua dalam Pro",
+    "lifetime_access": "Akses seumur hidup",
+    "future_updates": "Semua kemas kini masa hadapan",
+    "no_recurring": "Tiada caj berulang"
+  },
+  "nav": {
+    "login": "Log masuk",
+    "signup": "Daftar",
+    "dashboard": "Papan pemuka",
+    "pricing": "Harga"
+  },
+  "meta": {
+    "title": "ApexResume — Pembina Resume AI",
+    "description": "Bina resume yang dioptimumkan ATS dengan AI. Nilai, sesuaikan, dan muat turun resume profesional dalam beberapa minit."
+  },
+  "footer": {
+    "rights": "Hak cipta terpelihara."
+  }
+}

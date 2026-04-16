@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Wasifu wako,",
+    "hero_highlight": "ulioboreshwa na AI",
+    "hero_subtitle": "AI inaandika, inakadiri, na kurekebisha wasifu wako kwa kila tangazo la kazi. Pita uchunguzi wa ATS. Pata mahojiano zaidi.",
+    "cta_primary": "Jenga Wasifu Wako — Bure",
+    "cta_secondary": "Angalia Bei",
+    "social_proof": "Wasifi zaidi ya 4M wameundwa. Hakuna kadi ya mkopo inayohitajika.",
+    "feature_scoring": "Ukadiriaji wa AI",
+    "feature_scoring_desc": "Vigezo 23 vikichambuliwa kwa wakati halisi. Jua hasa mahali pa kuboresha.",
+    "feature_tailoring": "Kurekebisha kwa Kazi",
+    "feature_tailoring_desc": "Bandika maelezo ya kazi. AI inarekebisha wasifu wako ili ulingane.",
+    "feature_ats": "Salama dhidi ya ATS",
+    "feature_ats_desc": "Imehakikishiwa kupita Mifumo ya Ufuatiliaji wa Waombaji. Hakuna jedwali, hakuna picha."
+  },
+  "pricing": {
+    "title": "Bei rahisi na wazi",
+    "subtitle": "Hakuna ada zilizofichwa. Ghairi wakati wowote. Uhakika wa kurudishiwa pesa ndani ya siku 30.",
+    "free_name": "Bure",
+    "free_desc": "Anza na ujenzi wa msingi wa wasifu.",
+    "free_cta": "Anza Bure",
+    "pro_name": "Pro",
+    "pro_desc": "Kila kitu unachohitaji kupata kazi ya ndoto yako.",
+    "pro_cta": "Anza jaribio la bure la siku 7",
+    "lifetime_name": "Maisha Yote",
+    "lifetime_desc": "Lipa mara moja, tumia milele. Thamani bora.",
+    "lifetime_cta": "Pata Upatikanaji wa Maisha Yote",
+    "most_popular": "Maarufu Zaidi",
+    "questions": "Maswali? Tuma barua pepe kwa support@apexresume.ai",
+    "powered_by": "Inafanywa kazi na QubitumAI"
+  },
+  "features": {
+    "1_resume": "Wasifu 1",
+    "3_downloads": "Upakuaji wa PDF 3",
+    "basic_ai": "Mapendekezo ya msingi ya AI",
+    "ats_check": "Ukaguzi wa uoanifu wa ATS",
+    "unlimited_resumes": "Wasifi usio na kikomo",
+    "unlimited_downloads": "Upakuaji usio na kikomo",
+    "full_ai": "Uzalishaji na ukadiriaji kamili wa AI",
+    "job_tailoring": "Urekebrishaji maalum wa kazi",
+    "cover_letter": "Uzalishaji wa barua ya kuambatanisha",
+    "monthly_review": "Ukaguzi wa mtaalamu wa kila mwezi",
+    "priority_support": "Msaada wa kipaumbele",
+    "everything_pro": "Kila kitu katika Pro",
+    "lifetime_access": "Upatikanaji wa maisha yote",
+    "future_updates": "Masasisho yote ya baadaye",
+    "no_recurring": "Hakuna ada zinazojirudia"
+  },
+  "nav": {
+    "login": "Ingia",
+    "signup": "Jisajili",
+    "dashboard": "Dashibodi",
+    "pricing": "Bei"
+  },
+  "meta": {
+    "title": "ApexResume — Mjenzi wa Wasifu wa AI",
+    "description": "Jenga wasifi uliobinafsishwa kwa ATS na AI. Kadiri, rekebisha, na pakua wasifi wa kitaalamu kwa dakika chache."
+  },
+  "footer": {
+    "rights": "Haki zote zimehifadhiwa."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Vaš življenjepis,",
+    "hero_highlight": "izpopolnjen z umetno inteligenco",
+    "hero_subtitle": "UI piše, ocenjuje in prilagaja vaš življenjepis vsakemu oglasu za delo. Prestanite ATS pregled. Dobite več razgovorov.",
+    "cta_primary": "Ustvarite življenjepis — Brezplačno",
+    "cta_secondary": "Oglejte si cene",
+    "social_proof": "Ustvarjenih je bilo več kot 4 milijone življenjepisov. Kreditna kartica ni potrebna.",
+    "feature_scoring": "Ocenjevanje UI",
+    "feature_scoring_desc": "23 meril analiziranih v realnem času. Veste natanko, kje se izboljšati.",
+    "feature_tailoring": "Prilagajanje delu",
+    "feature_tailoring_desc": "Prilepite opis delovnega mesta. UI prilagodi vaš življenjepis.",
+    "feature_ats": "ATS-odporen",
+    "feature_ats_desc": "Zagotovljeno prestane sisteme za sledenje kandidatom. Brez tabel, brez slik."
+  },
+  "pricing": {
+    "title": "Enostavne, pregledne cene",
+    "subtitle": "Brez skritih pristojbin. Prekličite kadarkoli. 30-dnevna garancija vračila denarja.",
+    "free_name": "Brezplačno",
+    "free_desc": "Začnite z osnovno izdelavo življenjepisa.",
+    "free_cta": "Začni brezplačno",
+    "pro_name": "Pro",
+    "pro_desc": "Vse, kar potrebujete za pridobitev službe svojih sanj.",
+    "pro_cta": "Začni 7-dnevno brezplačno preskusno obdobje",
+    "lifetime_name": "Dosmrtno",
+    "lifetime_desc": "Plačajte enkrat, uporabljajte za vedno. Najboljša vrednost.",
+    "lifetime_cta": "Pridobite dosmrtni dostop",
+    "most_popular": "Najbolj priljubljen",
+    "questions": "Vprašanja? Pošljite e-pošto na support@apexresume.ai",
+    "powered_by": "Poganja QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 življenjepis",
+    "3_downloads": "3 prenosi PDF",
+    "basic_ai": "Osnovni predlogi UI",
+    "ats_check": "Preverjanje združljivosti ATS",
+    "unlimited_resumes": "Neomejeni življenjepisi",
+    "unlimited_downloads": "Neomejeni prenosi",
+    "full_ai": "Polno generiranje in ocenjevanje UI",
+    "job_tailoring": "Prilagajanje specifičnemu delu",
+    "cover_letter": "Generiranje spremljevalnega pisma",
+    "monthly_review": "Mesečni strokovni pregled",
+    "priority_support": "Prednostna podpora",
+    "everything_pro": "Vse iz Pro",
+    "lifetime_access": "Dosmrtni dostop",
+    "future_updates": "Vse prihodnje posodobitve",
+    "no_recurring": "Brez ponavljajočih se pristojbin"
+  },
+  "nav": {
+    "login": "Prijava",
+    "signup": "Registracija",
+    "dashboard": "Nadzorna plošča",
+    "pricing": "Cene"
+  },
+  "meta": {
+    "title": "ApexResume — Ustvarjalec življenjepisov z UI",
+    "description": "Ustvarite ATS-optimizirane življenjepise z UI. Ocenite, prilagodite in prenesite profesionalne življenjepise v minutah."
+  },
+  "footer": {
+    "rights": "Vse pravice pridržane."
+  }
+}

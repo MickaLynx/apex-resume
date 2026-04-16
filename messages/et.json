@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Sinu CV,",
+    "hero_highlight": "täiustatud tehisintellekti poolt",
+    "hero_subtitle": "Tehisintellekt kirjutab, hindab ja kohandab sinu CV-d iga töökuulutuse jaoks. Läbi ATS-sõelumise. Saa rohkem tööintervjuusid.",
+    "cta_primary": "Loo oma CV — Tasuta",
+    "cta_secondary": "Vaata hindasid",
+    "social_proof": "4M+ CV-d loodud. Krediitkaart pole vajalik.",
+    "feature_scoring": "Tehisintellekti hindamine",
+    "feature_scoring_desc": "23 kriteeriumit analüüsitud reaalajas. Tead täpselt, kus parandada.",
+    "feature_tailoring": "Töökoha kohandamine",
+    "feature_tailoring_desc": "Kleebi töö kirjeldus. Tehisintellekt kohandab sinu CV-d.",
+    "feature_ats": "ATS-kindel",
+    "feature_ats_desc": "Garanteeritult läbib kandidaatide jälgimissüsteemid. Pole tabeleid, pole pilte."
+  },
+  "pricing": {
+    "title": "Lihtne, läbipaistev hinnakujundus",
+    "subtitle": "Peidetud tasusid pole. Tühista igal ajal. 30-päevane raha tagastamise garantii.",
+    "free_name": "Tasuta",
+    "free_desc": "Alusta põhilise CV loomisega.",
+    "free_cta": "Alusta tasuta",
+    "pro_name": "Pro",
+    "pro_desc": "Kõik, mida vajad unistuste töö saamiseks.",
+    "pro_cta": "Alusta 7-päevast tasuta prooviperioodi",
+    "lifetime_name": "Eluaegne",
+    "lifetime_desc": "Maksa korra, kasuta igavesti. Parim väärtus.",
+    "lifetime_cta": "Hangi eluaegne juurdepääs",
+    "most_popular": "Kõige populaarsem",
+    "questions": "Küsimused? Saada e-kiri aadressile support@apexresume.ai",
+    "powered_by": "Töötab QubitumAI abil"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 PDF allalaadimist",
+    "basic_ai": "Põhilised tehisintellekti soovitused",
+    "ats_check": "ATS ühilduvuse kontroll",
+    "unlimited_resumes": "Piiramatu arv CV-sid",
+    "unlimited_downloads": "Piiramatu arv allalaadimisi",
+    "full_ai": "Täielik tehisintellekti genereerimine ja hindamine",
+    "job_tailoring": "Tööpõhine kohandamine",
+    "cover_letter": "Kaaskirja genereerimine",
+    "monthly_review": "Kuu eksperdiülevaade",
+    "priority_support": "Prioriteetne tugi",
+    "everything_pro": "Kõik Pro-st",
+    "lifetime_access": "Eluaegne juurdepääs",
+    "future_updates": "Kõik tulevased uuendused",
+    "no_recurring": "Korduvaid tasusid pole"
+  },
+  "nav": {
+    "login": "Logi sisse",
+    "signup": "Registreeru",
+    "dashboard": "Armatuurlaud",
+    "pricing": "Hinnad"
+  },
+  "meta": {
+    "title": "ApexResume — Tehisintellektiga CV looja",
+    "description": "Loo ATS-optimeeritud CV-sid tehisintellektiga. Hinda, kohanda ja laadi alla professionaalseid CV-sid minutitega."
+  },
+  "footer": {
+    "rights": "Kõik õigused kaitstud."
+  }
+}

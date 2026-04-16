@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Jūsų gyvenimo aprašymas,",
+    "hero_highlight": "patobulintas dirbtinio intelekto",
+    "hero_subtitle": "DI rašo, vertina ir pritaiko jūsų gyvenimo aprašymą kiekvienam darbo skelbimui. Praeikit ATS patikrinimą. Gaukite daugiau interviu.",
+    "cta_primary": "Sukurkite savo gyvenimo aprašymą — Nemokamai",
+    "cta_secondary": "Žiūrėti kainas",
+    "social_proof": "Sukurta daugiau nei 4 mln. gyvenimo aprašymų. Kredito kortelė nereikalinga.",
+    "feature_scoring": "DI vertinimas",
+    "feature_scoring_desc": "23 kriterijai analizuojami realiu laiku. Žinokite tiksliai, kur tobulėti.",
+    "feature_tailoring": "Pritaikymas darbui",
+    "feature_tailoring_desc": "Įklijuokite darbo aprašymą. DI pritaiko jūsų gyvenimo aprašymą.",
+    "feature_ats": "ATS-atsparus",
+    "feature_ats_desc": "Garantuotai praeina kandidatų stebėjimo sistemas. Jokių lentelių, jokių vaizdų."
+  },
+  "pricing": {
+    "title": "Paprasta, skaidri kainodara",
+    "subtitle": "Jokių paslėptų mokesčių. Atšaukite bet kada. 30 dienų pinigų grąžinimo garantija.",
+    "free_name": "Nemokamai",
+    "free_desc": "Pradėkite su pagrindiniu gyvenimo aprašymo kūrimu.",
+    "free_cta": "Pradėti nemokamai",
+    "pro_name": "Pro",
+    "pro_desc": "Viskas, ko reikia norint gauti savo svajonių darbą.",
+    "pro_cta": "Pradėti 7 dienų nemokamą bandomąjį laikotarpį",
+    "lifetime_name": "Visam gyvenimui",
+    "lifetime_desc": "Mokėkite vieną kartą, naudokite amžinai. Geriausias pasiūlymas.",
+    "lifetime_cta": "Gauti prieigą visam gyvenimui",
+    "most_popular": "Populiariausias",
+    "questions": "Klausimai? Siųskite el. laišką adresu support@apexresume.ai",
+    "powered_by": "Veikia naudojant QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 gyvenimo aprašymas",
+    "3_downloads": "3 PDF atsisiuntimai",
+    "basic_ai": "Pagrindiniai DI pasiūlymai",
+    "ats_check": "ATS suderinamumo patikrinimas",
+    "unlimited_resumes": "Neriboti gyvenimo aprašymai",
+    "unlimited_downloads": "Neriboti atsisiuntimai",
+    "full_ai": "Pilnas DI generavimas ir vertinimas",
+    "job_tailoring": "Darbo specifinis pritaikymas",
+    "cover_letter": "Motyvaciniai laiškai generavimas",
+    "monthly_review": "Mėnesinis eksperto peržiūra",
+    "priority_support": "Prioritetinė pagalba",
+    "everything_pro": "Viskas iš Pro",
+    "lifetime_access": "Prieiga visam gyvenimui",
+    "future_updates": "Visi būsimi atnaujinimai",
+    "no_recurring": "Jokių pasikartojančių mokesčių"
+  },
+  "nav": {
+    "login": "Prisijungti",
+    "signup": "Registruotis",
+    "dashboard": "Valdymo skydelis",
+    "pricing": "Kainos"
+  },
+  "meta": {
+    "title": "ApexResume — DI gyvenimo aprašymo kūrėjas",
+    "description": "Kurkite ATS optimizuotus gyvenimo aprašymus su DI. Vertinkite, pritaikykite ir atsisiųskite profesinius gyvenimo aprašymus per minutes."
+  },
+  "footer": {
+    "rights": "Visos teisės saugomos."
+  }
+}

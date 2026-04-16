@@ -1,0 +1,63 @@
+{
+  "landing": {
+    "hero_title": "Az önéletrajzod,",
+    "hero_highlight": "AI által tökéletesítve",
+    "hero_subtitle": "Az AI megírja, értékeli és minden állásajánlathoz igazítja önéletrajzodat. Menj át az ATS szűrésen. Szerezz több állásinterjút.",
+    "cta_primary": "Készítsd el önéletrajzod — Ingyenes",
+    "cta_secondary": "Árak megtekintése",
+    "social_proof": "4M+ önéletrajz elkészítve. Bankkártya nem szükséges.",
+    "feature_scoring": "AI pontozás",
+    "feature_scoring_desc": "23 szempont elemezve valós időben. Tudd pontosan, hol fejlődhetsz.",
+    "feature_tailoring": "Álláshoz igazítás",
+    "feature_tailoring_desc": "Illeszd be az állásleírást. Az AI igazítja önéletrajzodat.",
+    "feature_ats": "ATS-biztos",
+    "feature_ats_desc": "Garantáltan átmegy a pályázókövető rendszereken. Sem táblázat, sem kép.",
+    "feature_ats_desc": "Garantáltan átmegy a pályázókövető rendszereken. Sem táblázat, sem kép."
+  },
+  "pricing": {
+    "title": "Egyszerű, átlátható árazás",
+    "subtitle": "Nincs rejtett díj. Bármikor lemondható. 30 napos pénzvisszafizetési garancia.",
+    "free_name": "Ingyenes",
+    "free_desc": "Kezdd el az alapszintű önéletrajz-készítéssel.",
+    "free_cta": "Indulj ingyenesen",
+    "pro_name": "Pro",
+    "pro_desc": "Minden, amire szükséged van álommunkád megszerzéséhez.",
+    "pro_cta": "Indíts 7 napos ingyenes próbaidőszakot",
+    "lifetime_name": "Élethosszig",
+    "lifetime_desc": "Fizess egyszer, használd örökre. Legjobb ár-érték arány.",
+    "lifetime_cta": "Élethosszig tartó hozzáférés megszerzése",
+    "most_popular": "Legnépszerűbb",
+    "questions": "Kérdések? Írj e-mailt a support@apexresume.ai címre",
+    "powered_by": "Üzemelteti: QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 önéletrajz",
+    "3_downloads": "3 PDF letöltés",
+    "basic_ai": "Alapszintű AI javaslatok",
+    "ats_check": "ATS kompatibilitás ellenőrzés",
+    "unlimited_resumes": "Korlátlan önéletrajz",
+    "unlimited_downloads": "Korlátlan letöltések",
+    "full_ai": "Teljes AI generálás és pontozás",
+    "job_tailoring": "Munkakör-specifikus igazítás",
+    "cover_letter": "Motivációs levél generálás",
+    "monthly_review": "Havi szakértői áttekintés",
+    "priority_support": "Prioritásos támogatás",
+    "everything_pro": "Minden, ami Pro-ban van",
+    "lifetime_access": "Élethosszig tartó hozzáférés",
+    "future_updates": "Minden jövőbeli frissítés",
+    "no_recurring": "Nincs ismétlődő díj"
+  },
+  "nav": {
+    "login": "Bejelentkezés",
+    "signup": "Regisztráció",
+    "dashboard": "Irányítópult",
+    "pricing": "Árak"
+  },
+  "meta": {
+    "title": "ApexResume — AI önéletrajz-készítő",
+    "description": "Készítsen ATS-optimalizált önéletrajzokat AI segítségével. Értékelje, igazítsa és töltse le a professzionális önéletrajzokat percek alatt."
+  },
+  "footer": {
+    "rights": "Minden jog fenntartva."
+  }
+}

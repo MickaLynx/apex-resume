@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Jou CV,",
+    "hero_highlight": "vervolmaak deur KI",
+    "hero_subtitle": "KI skryf, gee punte en pas jou CV aan vir elke werksadvertensie. Slaag ATS-sifting. Kry meer onderhoude.",
+    "cta_primary": "Bou Jou CV — Gratis",
+    "cta_secondary": "Sien Pryse",
+    "social_proof": "4M+ CV's geskep. Geen kredietkaart benodig nie.",
+    "feature_scoring": "KI-puntetelling",
+    "feature_scoring_desc": "23 kriteria in werklike tyd geanaliseer. Weet presies waar om te verbeter.",
+    "feature_tailoring": "Werkaanpassing",
+    "feature_tailoring_desc": "Plak 'n werksbeskrywing. KI pas jou CV aan om te pas.",
+    "feature_ats": "ATS-bestand",
+    "feature_ats_desc": "Gewaarborg om Applikant-nasporingstelsels te slaag. Geen tabelle, geen beelde nie."
+  },
+  "pricing": {
+    "title": "Eenvoudige, deursigtige pryse",
+    "subtitle": "Geen verborge fooie nie. Kanselleer enige tyd. 30-dag geld-terug-waarborg.",
+    "free_name": "Gratis",
+    "free_desc": "Begin met basiese CV-bou.",
+    "free_cta": "Begin Gratis",
+    "pro_name": "Pro",
+    "pro_desc": "Alles wat jy nodig het om jou droomwerk te kry.",
+    "pro_cta": "Begin 7-dag gratis proefperiode",
+    "lifetime_name": "Lewenslank",
+    "lifetime_desc": "Betaal een keer, gebruik vir altyd. Beste waarde.",
+    "lifetime_cta": "Kry Lewenslange Toegang",
+    "most_popular": "Gewildste",
+    "questions": "Vrae? Stuur e-pos aan support@apexresume.ai",
+    "powered_by": "Aangedryf deur QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 PDF-aflaaie",
+    "basic_ai": "Basiese KI-voorstelle",
+    "ats_check": "ATS-verenigbaarheidskontrole",
+    "unlimited_resumes": "Onbeperkte CV's",
+    "unlimited_downloads": "Onbeperkte aflaaie",
+    "full_ai": "Volledige KI-generering en -puntetelling",
+    "job_tailoring": "Werkspesifieke aanpassing",
+    "cover_letter": "Begeleidende brief-generering",
+    "monthly_review": "Maandelikse kundige hersiening",
+    "priority_support": "Prioriteitsondersteuning",
+    "everything_pro": "Alles in Pro",
+    "lifetime_access": "Lewenslange toegang",
+    "future_updates": "Alle toekomstige opdaterings",
+    "no_recurring": "Geen herhalende koste nie"
+  },
+  "nav": {
+    "login": "Teken in",
+    "signup": "Registreer",
+    "dashboard": "Paneelbord",
+    "pricing": "Pryse"
+  },
+  "meta": {
+    "title": "ApexResume — KI CV-bou toepassing",
+    "description": "Bou ATS-geoptimaliseerde CV's met KI. Gee punte, pas aan en laai professionele CV's af in minute."
+  },
+  "footer": {
+    "rights": "Alle regte voorbehou."
+  }
+}

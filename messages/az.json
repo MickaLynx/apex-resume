@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Sizin CV-niz,",
+    "hero_highlight": "AI tərəfindən mükəmməlləşdirildi",
+    "hero_subtitle": "AI hər iş elanı üçün CV-nizi yazır, qiymətləndirir və uyğunlaşdırır. ATS skan etməsindən keçin. Daha çox müsahibə alın.",
+    "cta_primary": "CV-nizi Qurun — Pulsuz",
+    "cta_secondary": "Qiymətlərə Baxın",
+    "social_proof": "4M+ CV yaradıldı. Kredit kartı tələb olunmur.",
+    "feature_scoring": "AI Qiymətləndirmə",
+    "feature_scoring_desc": "Real vaxtda 23 meyar təhlil edildi. Harada inkişaf etdirəcəyinizi dəqiq bilin.",
+    "feature_tailoring": "İşə Uyğunlaşdırma",
+    "feature_tailoring_desc": "İş təsvirini yapışdırın. AI CV-nizi uyğunlaşdırır.",
+    "feature_ats": "ATS-Davamlı",
+    "feature_ats_desc": "Namizəd İzləmə Sistemlərindən keçəcəyiniz zəmanət verilir. Cədvəl yox, şəkil yox."
+  },
+  "pricing": {
+    "title": "Sadə, şəffaf qiymətləndirmə",
+    "subtitle": "Gizli ödənişlər yoxdur. İstənilən vaxt ləğv edin. 30 günlük geri qaytarma zəmanəti.",
+    "free_name": "Pulsuz",
+    "free_desc": "Əsas CV qurma ilə başlayın.",
+    "free_cta": "Pulsuz Başlayın",
+    "pro_name": "Pro",
+    "pro_desc": "Xəyal işinizi əldə etmək üçün lazım olan hər şey.",
+    "pro_cta": "7 günlük pulsuz sınaq başladın",
+    "lifetime_name": "Ömürlük",
+    "lifetime_desc": "Bir dəfə ödəyin, həmişəlik istifadə edin. Ən yaxşı dəyər.",
+    "lifetime_cta": "Ömürlük Giriş Əldə Edin",
+    "most_popular": "Ən Populyar",
+    "questions": "Suallar? support@apexresume.ai ünvanına e-poçt göndərin",
+    "powered_by": "QubitumAI tərəfindən dəstəklənir"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 PDF yükləmə",
+    "basic_ai": "Əsas AI tövsiyələri",
+    "ats_check": "ATS uyğunluq yoxlaması",
+    "unlimited_resumes": "Limitsiz CV-lər",
+    "unlimited_downloads": "Limitsiz yükləmələr",
+    "full_ai": "Tam AI generasiyası və qiymətləndirmə",
+    "job_tailoring": "İşə xüsusi uyğunlaşdırma",
+    "cover_letter": "Müraciət məktubu generasiyası",
+    "monthly_review": "Aylıq ekspert baxışı",
+    "priority_support": "Prioritet dəstək",
+    "everything_pro": "Pro-dakı hər şey",
+    "lifetime_access": "Ömürlük giriş",
+    "future_updates": "Bütün gələcək yeniləmələr",
+    "no_recurring": "Təkrarlanan ödənişlər yoxdur"
+  },
+  "nav": {
+    "login": "Daxil ol",
+    "signup": "Qeydiyyatdan keç",
+    "dashboard": "İdarə paneli",
+    "pricing": "Qiymətlər"
+  },
+  "meta": {
+    "title": "ApexResume — AI CV Yaradıcısı",
+    "description": "AI ilə ATS-optimallaşdırılmış CV-lər qurun. Dəqiqələr içinde peşəkar CV-ləri qiymətləndirin, uyğunlaşdırın və yükləyin."
+  },
+  "footer": {
+    "rights": "Bütün hüquqlar qorunur."
+  }
+}

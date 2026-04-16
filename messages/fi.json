@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Ansioluettelosi,",
+    "hero_highlight": "täydellistetty tekoälyllä",
+    "hero_subtitle": "Tekoäly kirjoittaa, pisteyttää ja räätälöi ansioluettelosi jokaiseen työpaikkailmoitukseen. Läpäise ATS-seulonta. Saa enemmän haastatteluja.",
+    "cta_primary": "Rakenna ansioluettelosi — Ilmaiseksi",
+    "cta_secondary": "Katso hinnat",
+    "social_proof": "4M+ ansioluetteloa luotu. Luottokorttia ei tarvita.",
+    "feature_scoring": "Tekoälypisteitys",
+    "feature_scoring_desc": "23 kriteeriä analysoituna reaaliajassa. Tiedät tarkalleen, mitä parantaa.",
+    "feature_tailoring": "Työräätälöinti",
+    "feature_tailoring_desc": "Liitä työnkuvaus. Tekoäly mukauttaa ansioluettelosi vastaamaan sitä.",
+    "feature_ats": "ATS-kestävä",
+    "feature_ats_desc": "Taattu läpäisy hakijanseurantajärjestelmistä. Ei taulukoita, ei kuvia."
+  },
+  "pricing": {
+    "title": "Yksinkertainen, läpinäkyvä hinnoittelu",
+    "subtitle": "Ei piilomaksuja. Peruuta milloin tahansa. 30 päivän rahanpalautustakuu.",
+    "free_name": "Ilmainen",
+    "free_desc": "Aloita perustason ansioluettelon rakentamisella.",
+    "free_cta": "Aloita ilmaiseksi",
+    "pro_name": "Pro",
+    "pro_desc": "Kaikki mitä tarvitset unelmatyösi saamiseen.",
+    "pro_cta": "Aloita 7 päivän ilmainen kokeilu",
+    "lifetime_name": "Elinikäinen",
+    "lifetime_desc": "Maksa kerran, käytä ikuisesti. Paras arvo.",
+    "lifetime_cta": "Hanki elinikäinen pääsy",
+    "most_popular": "Suosituin",
+    "questions": "Kysymyksiä? Lähetä sähköpostia osoitteeseen support@apexresume.ai",
+    "powered_by": "Toimii QubitumAI:lla"
+  },
+  "features": {
+    "1_resume": "1 ansioluettelo",
+    "3_downloads": "3 PDF-latausta",
+    "basic_ai": "Perustason tekoälyehdotukset",
+    "ats_check": "ATS-yhteensopivuustarkistus",
+    "unlimited_resumes": "Rajattomat ansioluettelot",
+    "unlimited_downloads": "Rajattomat lataukset",
+    "full_ai": "Täysi tekoälygeneraatio ja pisteitys",
+    "job_tailoring": "Työkohtainen räätälöinti",
+    "cover_letter": "Saatekirjeen generointi",
+    "monthly_review": "Kuukausittainen asiantuntija-arvostelu",
+    "priority_support": "Prioriteettituki",
+    "everything_pro": "Kaikki Pro-paketista",
+    "lifetime_access": "Elinikäinen pääsy",
+    "future_updates": "Kaikki tulevat päivitykset",
+    "no_recurring": "Ei toistuvia maksuja"
+  },
+  "nav": {
+    "login": "Kirjaudu sisään",
+    "signup": "Rekisteröidy",
+    "dashboard": "Kojelauta",
+    "pricing": "Hinnat"
+  },
+  "meta": {
+    "title": "ApexResume — Tekoälypohjainen ansioluettelon rakentaja",
+    "description": "Rakenna ATS-optimoituja ansioluetteloita tekoälyllä. Pisteytä, räätälöi ja lataa ammattimaisia ansioluetteloita minuuteissa."
+  },
+  "footer": {
+    "rights": "Kaikki oikeudet pidätetään."
+  }
+}

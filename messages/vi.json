@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Hồ sơ của bạn,",
+    "hero_highlight": "được hoàn thiện bởi AI",
+    "hero_subtitle": "AI viết, chấm điểm và điều chỉnh hồ sơ của bạn cho từng vị trí tuyển dụng. Vượt qua sàng lọc ATS. Nhận được nhiều buổi phỏng vấn hơn.",
+    "cta_primary": "Tạo hồ sơ của bạn — Miễn phí",
+    "cta_secondary": "Xem bảng giá",
+    "social_proof": "4M+ hồ sơ đã được tạo. Không cần thẻ tín dụng.",
+    "feature_scoring": "Chấm điểm AI",
+    "feature_scoring_desc": "23 tiêu chí được phân tích theo thời gian thực. Biết chính xác nơi cần cải thiện.",
+    "feature_tailoring": "Điều chỉnh theo việc làm",
+    "feature_tailoring_desc": "Dán mô tả công việc. AI điều chỉnh hồ sơ của bạn cho phù hợp.",
+    "feature_ats": "Chống ATS",
+    "feature_ats_desc": "Đảm bảo vượt qua Hệ thống theo dõi ứng viên. Không có bảng, không có hình ảnh."
+  },
+  "pricing": {
+    "title": "Giá cả đơn giản, minh bạch",
+    "subtitle": "Không có phí ẩn. Hủy bất cứ lúc nào. Đảm bảo hoàn tiền trong 30 ngày.",
+    "free_name": "Miễn phí",
+    "free_desc": "Bắt đầu với việc tạo hồ sơ cơ bản.",
+    "free_cta": "Bắt đầu miễn phí",
+    "pro_name": "Pro",
+    "pro_desc": "Mọi thứ bạn cần để có được công việc mơ ước.",
+    "pro_cta": "Bắt đầu dùng thử miễn phí 7 ngày",
+    "lifetime_name": "Trọn đời",
+    "lifetime_desc": "Trả một lần, dùng mãi mãi. Giá trị tốt nhất.",
+    "lifetime_cta": "Nhận quyền truy cập trọn đời",
+    "most_popular": "Phổ biến nhất",
+    "questions": "Câu hỏi? Gửi email đến support@apexresume.ai",
+    "powered_by": "Được hỗ trợ bởi QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 hồ sơ",
+    "3_downloads": "3 lần tải PDF",
+    "basic_ai": "Gợi ý AI cơ bản",
+    "ats_check": "Kiểm tra tương thích ATS",
+    "unlimited_resumes": "Hồ sơ không giới hạn",
+    "unlimited_downloads": "Tải xuống không giới hạn",
+    "full_ai": "Tạo và chấm điểm AI đầy đủ",
+    "job_tailoring": "Điều chỉnh theo công việc cụ thể",
+    "cover_letter": "Tạo thư xin việc",
+    "monthly_review": "Đánh giá chuyên gia hàng tháng",
+    "priority_support": "Hỗ trợ ưu tiên",
+    "everything_pro": "Tất cả trong Pro",
+    "lifetime_access": "Quyền truy cập trọn đời",
+    "future_updates": "Tất cả các cập nhật trong tương lai",
+    "no_recurring": "Không có phí định kỳ"
+  },
+  "nav": {
+    "login": "Đăng nhập",
+    "signup": "Đăng ký",
+    "dashboard": "Bảng điều khiển",
+    "pricing": "Bảng giá"
+  },
+  "meta": {
+    "title": "ApexResume — Công cụ tạo hồ sơ AI",
+    "description": "Tạo hồ sơ được tối ưu hóa ATS với AI. Chấm điểm, điều chỉnh và tải xuống hồ sơ chuyên nghiệp trong vài phút."
+  },
+  "footer": {
+    "rights": "Tất cả các quyền được bảo lưu."
+  }
+}
