@@ -12,9 +12,29 @@ const intlMiddleware = createMiddleware({
 export async function middleware(request: NextRequest) {
   const response = intlMiddleware(request);
 
+  // Capture ?ref= affiliate code and persist as cookie (30 days)
+  const refCode = request.nextUrl.searchParams.get('ref');
+  if (refCode && /^[a-z0-9]{4,16}$/.test(refCode) && !request.cookies.get('ref_code')) {
+    response.cookies.set('ref_code', refCode, {
+      maxAge: 60 * 60 * 24 * 30,
+      httpOnly: true,
+      sameSite: 'lax',
+      secure: process.env.NODE_ENV === 'production',
+      path: '/',
+    });
+  }
+
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+
+  // Skip auth check if Supabase is not configured
+  if (!supabaseUrl || !supabaseKey) {
+    return response;
+  }
+
   const supabase = createServerClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+    supabaseUrl,
+    supabaseKey,
     {
       cookies: {
         getAll() {
