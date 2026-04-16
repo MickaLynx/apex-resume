@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "你的简历，",
+    "hero_highlight": "由AI完美打造",
+    "hero_subtitle": "AI撰写、评分并根据每个职位描述优化你的简历。通过ATS筛选，获得更多面试机会。",
+    "cta_primary": "免费创建简历",
+    "cta_secondary": "查看价格",
+    "social_proof": "已创建400万+份简历。无需信用卡。",
+    "feature_scoring": "AI评分",
+    "feature_scoring_desc": "23项标准实时分析。准确了解改进方向。",
+    "feature_tailoring": "职位定制",
+    "feature_tailoring_desc": "粘贴职位描述，AI自动优化你的简历。",
+    "feature_ats": "ATS通过保障",
+    "feature_ats_desc": "保证通过求职者追踪系统。无表格，无图片。"
+  },
+  "pricing": {
+    "title": "简单透明的价格",
+    "subtitle": "无隐藏费用。随时取消。30天退款保证。",
+    "free_name": "免费",
+    "free_desc": "从基础简历创建开始。",
+    "free_cta": "免费开始",
+    "pro_name": "专业版",
+    "pro_desc": "获得梦想工作所需的一切。",
+    "pro_cta": "7天免费试用",
+    "lifetime_name": "终身版",
+    "lifetime_desc": "一次付费，永久使用。最高性价比。",
+    "lifetime_cta": "获取终身访问",
+    "most_popular": "最受欢迎",
+    "questions": "有问题？请联系 support@apexresume.ai",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "1份简历",
+    "3_downloads": "3次PDF下载",
+    "basic_ai": "基础AI建议",
+    "ats_check": "ATS兼容性检查",
+    "unlimited_resumes": "无限简历",
+    "unlimited_downloads": "无限下载",
+    "full_ai": "完整AI生成与评分",
+    "job_tailoring": "职位定制优化",
+    "cover_letter": "求职信生成",
+    "monthly_review": "每月专家审查",
+    "priority_support": "优先客服",
+    "everything_pro": "包含专业版全部功能",
+    "lifetime_access": "终身访问",
+    "future_updates": "所有未来更新",
+    "no_recurring": "无循环收费"
+  },
+  "nav": {
+    "login": "登录",
+    "signup": "注册",
+    "dashboard": "控制台",
+    "pricing": "价格"
+  },
+  "meta": {
+    "title": "ApexResume — AI简历制作工具",
+    "description": "用AI创建ATS优化简历。评分、优化、下载专业简历，仅需几分钟。"
+  },
+  "footer": {
+    "rights": "版权所有。"
+  }
+}

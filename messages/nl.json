@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Je CV,",
+    "hero_highlight": "geperfectioneerd door AI",
+    "hero_subtitle": "AI schrijft, beoordeelt en past je CV aan op elke vacature. Kom door ATS-screening. Krijg meer sollicitatiegesprekken.",
+    "cta_primary": "Maak je CV — Gratis",
+    "cta_secondary": "Bekijk prijzen",
+    "social_proof": "4M+ CV's gemaakt. Geen creditcard nodig.",
+    "feature_scoring": "AI-beoordeling",
+    "feature_scoring_desc": "23 criteria realtime geanalyseerd. Weet precies waar je kunt verbeteren.",
+    "feature_tailoring": "Vacature-aanpassing",
+    "feature_tailoring_desc": "Plak een vacature. AI past je CV automatisch aan.",
+    "feature_ats": "ATS-proof",
+    "feature_ats_desc": "Gegarandeerd door ATS-systemen. Geen tabellen, geen afbeeldingen."
+  },
+  "pricing": {
+    "title": "Eenvoudige, transparante prijzen",
+    "subtitle": "Geen verborgen kosten. Op elk moment opzegbaar. 30 dagen geld-terug-garantie.",
+    "free_name": "Gratis",
+    "free_desc": "Begin met basis CV-creatie.",
+    "free_cta": "Gratis beginnen",
+    "pro_name": "Pro",
+    "pro_desc": "Alles wat je nodig hebt om je droombaan te vinden.",
+    "pro_cta": "7 dagen gratis proberen",
+    "lifetime_name": "Levenslang",
+    "lifetime_desc": "Eenmalig betalen, voor altijd gebruiken. Beste waarde.",
+    "lifetime_cta": "Levenslange toegang krijgen",
+    "most_popular": "Meest populair",
+    "questions": "Vragen? Mail support@apexresume.ai",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 PDF-downloads",
+    "basic_ai": "Basis AI-suggesties",
+    "ats_check": "ATS-compatibiliteitscheck",
+    "unlimited_resumes": "Onbeperkt CV's",
+    "unlimited_downloads": "Onbeperkte downloads",
+    "full_ai": "Volledige AI-generatie & beoordeling",
+    "job_tailoring": "Vacature-specifieke aanpassing",
+    "cover_letter": "Sollicitatiebrief genereren",
+    "monthly_review": "Maandelijkse expert review",
+    "priority_support": "Prioriteits-support",
+    "everything_pro": "Alles uit Pro",
+    "lifetime_access": "Levenslange toegang",
+    "future_updates": "Alle toekomstige updates",
+    "no_recurring": "Geen terugkerende kosten"
+  },
+  "nav": {
+    "login": "Inloggen",
+    "signup": "Registreren",
+    "dashboard": "Dashboard",
+    "pricing": "Prijzen"
+  },
+  "meta": {
+    "title": "ApexResume — AI CV-maker",
+    "description": "Maak ATS-geoptimaliseerde CV's met AI. Beoordeel, pas aan en download professionele CV's in minuten."
+  },
+  "footer": {
+    "rights": "Alle rechten voorbehouden."
+  }
+}

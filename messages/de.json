@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Dein Lebenslauf,",
+    "hero_highlight": "perfektioniert durch KI",
+    "hero_subtitle": "KI schreibt, bewertet und passt deinen Lebenslauf an jede Stellenbeschreibung an. Bestehe ATS-Screenings. Erhalte mehr Vorstellungsgesprache.",
+    "cta_primary": "Lebenslauf erstellen — Kostenlos",
+    "cta_secondary": "Preise ansehen",
+    "social_proof": "4M+ Lebensläufe erstellt. Keine Kreditkarte erforderlich.",
+    "feature_scoring": "KI-Bewertung",
+    "feature_scoring_desc": "23 Kriterien in Echtzeit analysiert. Wisse genau, wo du dich verbessern kannst.",
+    "feature_tailoring": "Stellenanpassung",
+    "feature_tailoring_desc": "Stellenbeschreibung einfugen. KI passt deinen Lebenslauf automatisch an.",
+    "feature_ats": "ATS-sicher",
+    "feature_ats_desc": "Garantiert ATS-kompatibel. Keine Tabellen, keine Bilder."
+  },
+  "pricing": {
+    "title": "Einfache, transparente Preise",
+    "subtitle": "Keine versteckten Kosten. Jederzeit kundbar. 30 Tage Geld-zuruck-Garantie.",
+    "free_name": "Kostenlos",
+    "free_desc": "Starte mit der einfachen Lebenslauf-Erstellung.",
+    "free_cta": "Kostenlos starten",
+    "pro_name": "Pro",
+    "pro_desc": "Alles, was du brauchst, um deinen Traumjob zu bekommen.",
+    "pro_cta": "7 Tage kostenlos testen",
+    "lifetime_name": "Lebenslang",
+    "lifetime_desc": "Einmal zahlen, fur immer nutzen. Bestes Preis-Leistungs-Verhaltnis.",
+    "lifetime_cta": "Lebenslangen Zugang erhalten",
+    "most_popular": "Am beliebtesten",
+    "questions": "Fragen? E-Mail an support@apexresume.ai",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 Lebenslauf",
+    "3_downloads": "3 PDF-Downloads",
+    "basic_ai": "Einfache KI-Vorschlage",
+    "ats_check": "ATS-Kompatibilitatsprufung",
+    "unlimited_resumes": "Unbegrenzte Lebensläufe",
+    "unlimited_downloads": "Unbegrenzte Downloads",
+    "full_ai": "Volle KI-Generierung & Bewertung",
+    "job_tailoring": "Stellenspezifische Anpassung",
+    "cover_letter": "Anschreiben-Generierung",
+    "monthly_review": "Monatliches Experten-Review",
+    "priority_support": "Prioritats-Support",
+    "everything_pro": "Alles aus Pro",
+    "lifetime_access": "Lebenslanger Zugang",
+    "future_updates": "Alle zukunftigen Updates",
+    "no_recurring": "Keine wiederkehrenden Kosten"
+  },
+  "nav": {
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "dashboard": "Dashboard",
+    "pricing": "Preise"
+  },
+  "meta": {
+    "title": "ApexResume — KI-Lebenslauf-Ersteller",
+    "description": "Erstelle ATS-optimierte Lebensläufe mit KI. Bewerte, passe an und lade professionelle Lebensläufe in Minuten herunter."
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

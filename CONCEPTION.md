@@ -6,6 +6,17 @@
 
 # CONCEPTION.md: Rezi-Clone (Codename: ApexResume)
 
+## NOMS CANDIDATS (Medvi Playbook — à valider par Micka)
+| Nom | Extension | Signal | Score |
+|-----|-----------|--------|-------|
+| Optima | .ai | Optimisation universelle | ⭐⭐⭐⭐⭐ |
+| Lumina | .ai | Clarté, lumière, professionnel | ⭐⭐⭐⭐ |
+| Primo | .ai | Premier, premium, court | ⭐⭐⭐⭐ |
+| Gradus | .ai | Progression, grades, carrière | ⭐⭐⭐⭐ |
+| Veridis | .ai | Vérité, authenticité | ⭐⭐⭐ |
+| Novum | .ai | Nouveau, innovation | ⭐⭐⭐ |
+→ Vérifier disponibilité réelle avant achat
+
 **Project Goal:** To build a best-in-class, AI-powered resume builder that not only meets but exceeds the functionality, speed, and aesthetic quality of existing market leaders (specifically Rezi.ai). Our core differentiator is superior, actionable AI feedback and a flawless mobile UX.
 
 **Role:** Senior Mobile Architect / Product Lead

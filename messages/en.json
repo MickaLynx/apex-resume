@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Your resume,",
+    "hero_highlight": "perfected by AI",
+    "hero_subtitle": "AI writes, scores, and tailors your resume to each job description. Pass ATS screening. Land more interviews.",
+    "cta_primary": "Build Your Resume — Free",
+    "cta_secondary": "See Pricing",
+    "social_proof": "4M+ resumes created. No credit card required.",
+    "feature_scoring": "AI Scoring",
+    "feature_scoring_desc": "23 criteria analyzed in real-time. Know exactly where to improve.",
+    "feature_tailoring": "Job Tailoring",
+    "feature_tailoring_desc": "Paste a job description. AI adapts your resume to match.",
+    "feature_ats": "ATS-Proof",
+    "feature_ats_desc": "Guaranteed to pass Applicant Tracking Systems. No tables, no images."
+  },
+  "pricing": {
+    "title": "Simple, transparent pricing",
+    "subtitle": "No hidden fees. Cancel anytime. 30-day money-back guarantee.",
+    "free_name": "Free",
+    "free_desc": "Get started with basic resume building.",
+    "free_cta": "Start Free",
+    "pro_name": "Pro",
+    "pro_desc": "Everything you need to land your dream job.",
+    "pro_cta": "Start 7-day free trial",
+    "lifetime_name": "Lifetime",
+    "lifetime_desc": "Pay once, use forever. Best value.",
+    "lifetime_cta": "Get Lifetime Access",
+    "most_popular": "Most Popular",
+    "questions": "Questions? Email support@apexresume.ai",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 resume",
+    "3_downloads": "3 PDF downloads",
+    "basic_ai": "Basic AI suggestions",
+    "ats_check": "ATS compatibility check",
+    "unlimited_resumes": "Unlimited resumes",
+    "unlimited_downloads": "Unlimited downloads",
+    "full_ai": "Full AI generation & scoring",
+    "job_tailoring": "Job-specific tailoring",
+    "cover_letter": "Cover letter generation",
+    "monthly_review": "Monthly expert review",
+    "priority_support": "Priority support",
+    "everything_pro": "Everything in Pro",
+    "lifetime_access": "Lifetime access",
+    "future_updates": "All future updates",
+    "no_recurring": "No recurring charges"
+  },
+  "nav": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "dashboard": "Dashboard",
+    "pricing": "Pricing"
+  },
+  "meta": {
+    "title": "ApexResume — AI Resume Builder",
+    "description": "Build ATS-optimized resumes with AI. Score, tailor, and download professional resumes in minutes."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

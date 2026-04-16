@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "あなたの履歴書を",
+    "hero_highlight": "AIが完璧に仕上げます",
+    "hero_subtitle": "AIが履歴書を作成・採点し、求人内容に合わせて最適化。ATS審査を通過して、面接の機会を増やしましょう。",
+    "cta_primary": "無料で履歴書を作成",
+    "cta_secondary": "料金を見る",
+    "social_proof": "400万件以上の履歴書を作成。クレジットカード不要。",
+    "feature_scoring": "AIスコアリング",
+    "feature_scoring_desc": "23の基準をリアルタイムで分析。改善点が一目でわかります。",
+    "feature_tailoring": "求人に合わせた最適化",
+    "feature_tailoring_desc": "求人票を貼り付けるだけ。AIが履歴書を自動で最適化します。",
+    "feature_ats": "ATS対策済み",
+    "feature_ats_desc": "応募者追跡システムの通過を保証。表や画像は使用しません。"
+  },
+  "pricing": {
+    "title": "シンプルで透明な料金体系",
+    "subtitle": "隠れた費用なし。いつでも解約可能。30日間返金保証。",
+    "free_name": "無料",
+    "free_desc": "基本的な履歴書作成から始めましょう。",
+    "free_cta": "無料で始める",
+    "pro_name": "プロ",
+    "pro_desc": "理想の仕事を手に入れるために必要なすべて。",
+    "pro_cta": "7日間無料トライアル",
+    "lifetime_name": "永久版",
+    "lifetime_desc": "一度の支払いで永久に使用。最もお得なプラン。",
+    "lifetime_cta": "永久アクセスを取得",
+    "most_popular": "人気No.1",
+    "questions": "ご質問は support@apexresume.ai まで",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "履歴書1件",
+    "3_downloads": "PDF 3回ダウンロード",
+    "basic_ai": "基本的なAI提案",
+    "ats_check": "ATS互換性チェック",
+    "unlimited_resumes": "履歴書無制限",
+    "unlimited_downloads": "ダウンロード無制限",
+    "full_ai": "フルAI生成・採点",
+    "job_tailoring": "求人別最適化",
+    "cover_letter": "カバーレター生成",
+    "monthly_review": "毎月の専門家レビュー",
+    "priority_support": "優先サポート",
+    "everything_pro": "Proの全機能",
+    "lifetime_access": "永久アクセス",
+    "future_updates": "将来のアップデートすべて",
+    "no_recurring": "月額料金なし"
+  },
+  "nav": {
+    "login": "ログイン",
+    "signup": "新規登録",
+    "dashboard": "ダッシュボード",
+    "pricing": "料金"
+  },
+  "meta": {
+    "title": "ApexResume — AI履歴書メーカー",
+    "description": "AIでATS最適化された履歴書を作成。採点・最適化・ダウンロードを数分で。"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

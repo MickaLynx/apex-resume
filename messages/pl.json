@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Twoje CV,",
+    "hero_highlight": "udoskonalone przez AI",
+    "hero_subtitle": "AI pisze, ocenia i dostosowuje Twoje CV do kazdej oferty pracy. Przejdz screening ATS. Zdobadz wiecej rozmow kwalifikacyjnych.",
+    "cta_primary": "Stworz swoje CV — Za darmo",
+    "cta_secondary": "Zobacz ceny",
+    "social_proof": "4M+ CV utworzonych. Karta kredytowa nie jest wymagana.",
+    "feature_scoring": "Ocena AI",
+    "feature_scoring_desc": "23 kryteria analizowane w czasie rzeczywistym. Dowiedz sie dokladnie, co poprawic.",
+    "feature_tailoring": "Dopasowanie do oferty",
+    "feature_tailoring_desc": "Wklej opis stanowiska. AI automatycznie dostosuje Twoje CV.",
+    "feature_ats": "Gwarancja przejscia ATS",
+    "feature_ats_desc": "Gwarancja przejscia przez systemy sledzenia kandydatow. Bez tabel, bez obrazow."
+  },
+  "pricing": {
+    "title": "Proste, przejrzyste ceny",
+    "subtitle": "Bez ukrytych oplat. Anuluj kiedy chcesz. 30-dniowa gwarancja zwrotu pieniedzy.",
+    "free_name": "Darmowy",
+    "free_desc": "Zacznij od podstawowego tworzenia CV.",
+    "free_cta": "Zacznij za darmo",
+    "pro_name": "Pro",
+    "pro_desc": "Wszystko, czego potrzebujesz, aby zdobyc wymarzona prace.",
+    "pro_cta": "7 dni za darmo",
+    "lifetime_name": "Dozywotni",
+    "lifetime_desc": "Zaplac raz, korzystaj na zawsze. Najlepsza wartosc.",
+    "lifetime_cta": "Uzyskaj dozywotni dostep",
+    "most_popular": "Najpopularniejszy",
+    "questions": "Pytania? Napisz na support@apexresume.ai",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 pobrania PDF",
+    "basic_ai": "Podstawowe sugestie AI",
+    "ats_check": "Sprawdzenie kompatybilnosci ATS",
+    "unlimited_resumes": "Nieograniczona liczba CV",
+    "unlimited_downloads": "Nieograniczone pobieranie",
+    "full_ai": "Pelna generacja i ocena AI",
+    "job_tailoring": "Dopasowanie do stanowiska",
+    "cover_letter": "Generowanie listu motywacyjnego",
+    "monthly_review": "Miesieczny przeglad eksperta",
+    "priority_support": "Priorytetowe wsparcie",
+    "everything_pro": "Wszystko z Pro",
+    "lifetime_access": "Dozywotni dostep",
+    "future_updates": "Wszystkie przyszle aktualizacje",
+    "no_recurring": "Bez cyklicznych oplat"
+  },
+  "nav": {
+    "login": "Zaloguj sie",
+    "signup": "Zarejestruj sie",
+    "dashboard": "Panel",
+    "pricing": "Cennik"
+  },
+  "meta": {
+    "title": "ApexResume — Kreator CV z AI",
+    "description": "Tworz CV zoptymalizowane pod ATS z pomoca AI. Oceniaj, dostosowuj i pobieraj profesjonalne CV w kilka minut."
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzezone."
+  }
+}

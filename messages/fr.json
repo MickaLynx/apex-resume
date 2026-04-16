@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Votre CV,",
+    "hero_highlight": "perfectionne par l'IA",
+    "hero_subtitle": "L'IA redige, evalue et adapte votre CV a chaque offre d'emploi. Passez le filtrage ATS. Decrochez plus d'entretiens.",
+    "cta_primary": "Creez votre CV — Gratuit",
+    "cta_secondary": "Voir les tarifs",
+    "social_proof": "4M+ de CV crees. Pas de carte bancaire requise.",
+    "feature_scoring": "Score IA",
+    "feature_scoring_desc": "23 criteres analyses en temps reel. Sachez exactement ou vous ameliorer.",
+    "feature_tailoring": "Adaptation ciblee",
+    "feature_tailoring_desc": "Collez une offre d'emploi. L'IA adapte votre CV en consequence.",
+    "feature_ats": "Anti-ATS garanti",
+    "feature_ats_desc": "Garanti de passer les systemes de suivi des candidatures. Pas de tableaux, pas d'images."
+  },
+  "pricing": {
+    "title": "Tarification simple et transparente",
+    "subtitle": "Pas de frais caches. Resiliez a tout moment. Garantie satisfait ou rembourse 30 jours.",
+    "free_name": "Gratuit",
+    "free_desc": "Commencez avec la creation de CV basique.",
+    "free_cta": "Commencer gratuitement",
+    "pro_name": "Pro",
+    "pro_desc": "Tout ce dont vous avez besoin pour decrocher l'emploi de vos reves.",
+    "pro_cta": "Essai gratuit de 7 jours",
+    "lifetime_name": "A vie",
+    "lifetime_desc": "Payez une fois, utilisez pour toujours. Meilleur rapport qualite-prix.",
+    "lifetime_cta": "Obtenir l'acces a vie",
+    "most_popular": "Le plus populaire",
+    "questions": "Questions ? Contactez support@apexresume.ai",
+    "powered_by": "Propulse par QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 CV",
+    "3_downloads": "3 telechargements PDF",
+    "basic_ai": "Suggestions IA basiques",
+    "ats_check": "Verification compatibilite ATS",
+    "unlimited_resumes": "CV illimites",
+    "unlimited_downloads": "Telechargements illimites",
+    "full_ai": "Generation & score IA complets",
+    "job_tailoring": "Adaptation par poste",
+    "cover_letter": "Generation de lettre de motivation",
+    "monthly_review": "Revue mensuelle par un expert",
+    "priority_support": "Support prioritaire",
+    "everything_pro": "Tout inclus dans Pro",
+    "lifetime_access": "Acces a vie",
+    "future_updates": "Toutes les futures mises a jour",
+    "no_recurring": "Pas de frais recurrents"
+  },
+  "nav": {
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "dashboard": "Tableau de bord",
+    "pricing": "Tarifs"
+  },
+  "meta": {
+    "title": "ApexResume — Createur de CV IA",
+    "description": "Creez des CV optimises ATS avec l'IA. Evaluez, adaptez et telechargez des CV professionnels en quelques minutes."
+  },
+  "footer": {
+    "rights": "Tous droits reserves."
+  }
+}

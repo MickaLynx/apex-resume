@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Ozgecmisiniz,",
+    "hero_highlight": "yapay zeka ile mukemmellestirildi",
+    "hero_subtitle": "Yapay zeka ozgecmisinizi yazar, puanlar ve her is ilani icin uyarlar. ATS taramasindan gecin. Daha fazla mulakat firsati yakalayin.",
+    "cta_primary": "Ozgecmisinizi olusturun — Ucretsiz",
+    "cta_secondary": "Fiyatlari gor",
+    "social_proof": "4M+ ozgecmis olusturuldu. Kredi karti gerekmiyor.",
+    "feature_scoring": "Yapay Zeka Puanlama",
+    "feature_scoring_desc": "23 kriter gercek zamanli analiz edilir. Nerede gelismeniz gerektigini tam olarak bilin.",
+    "feature_tailoring": "Is ilanina uyarlama",
+    "feature_tailoring_desc": "Bir is ilani yapistirin. Yapay zeka ozgecmisinizi otomatik olarak uyarlar.",
+    "feature_ats": "ATS uyumlu",
+    "feature_ats_desc": "Aday takip sistemlerinden gecis garantisi. Tablo yok, gorsel yok."
+  },
+  "pricing": {
+    "title": "Basit, seffaf fiyatlandirma",
+    "subtitle": "Gizli ucret yok. Istediginiz zaman iptal edin. 30 gun para iade garantisi.",
+    "free_name": "Ucretsiz",
+    "free_desc": "Temel ozgecmis olusturma ile baslayin.",
+    "free_cta": "Ucretsiz basla",
+    "pro_name": "Pro",
+    "pro_desc": "Hayalinizdeki isi bulmak icin ihtiyaciniz olan her sey.",
+    "pro_cta": "7 gun ucretsiz dene",
+    "lifetime_name": "Omur boyu",
+    "lifetime_desc": "Bir kez ode, sonsuza kadar kullan. En iyi deger.",
+    "lifetime_cta": "Omur boyu erisim al",
+    "most_popular": "En populer",
+    "questions": "Sorulariniz mi var? support@apexresume.ai",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 ozgecmis",
+    "3_downloads": "3 PDF indirme",
+    "basic_ai": "Temel yapay zeka onerileri",
+    "ats_check": "ATS uyumluluk kontrolu",
+    "unlimited_resumes": "Sinirsiz ozgecmis",
+    "unlimited_downloads": "Sinirsiz indirme",
+    "full_ai": "Tam yapay zeka uretimi ve puanlama",
+    "job_tailoring": "Pozisyona ozel uyarlama",
+    "cover_letter": "On yazi olusturma",
+    "monthly_review": "Aylik uzman incelemesi",
+    "priority_support": "Oncelikli destek",
+    "everything_pro": "Pro'nun tum ozellikleri",
+    "lifetime_access": "Omur boyu erisim",
+    "future_updates": "Tum gelecek guncellemeler",
+    "no_recurring": "Yinelenen ucret yok"
+  },
+  "nav": {
+    "login": "Giris yap",
+    "signup": "Kaydol",
+    "dashboard": "Kontrol paneli",
+    "pricing": "Fiyatlar"
+  },
+  "meta": {
+    "title": "ApexResume — Yapay Zeka Ozgecmis Olusturucu",
+    "description": "Yapay zeka ile ATS'ye optimize ozgecmisler olusturun. Dakikalar icinde puanlayin, uyarlayin ve indirin."
+  },
+  "footer": {
+    "rights": "Tum haklari saklidir."
+  }
+}

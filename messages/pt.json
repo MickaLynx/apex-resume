@@ -1,0 +1,62 @@
+{
+  "landing": {
+    "hero_title": "Seu curriculo,",
+    "hero_highlight": "aperfeicoado por IA",
+    "hero_subtitle": "A IA escreve, avalia e adapta seu curriculo para cada vaga. Passe pelos filtros ATS. Conquiste mais entrevistas.",
+    "cta_primary": "Crie seu curriculo — Gratis",
+    "cta_secondary": "Ver precos",
+    "social_proof": "4M+ de curriculos criados. Sem cartao de credito.",
+    "feature_scoring": "Pontuacao IA",
+    "feature_scoring_desc": "23 criterios analisados em tempo real. Saiba exatamente onde melhorar.",
+    "feature_tailoring": "Adaptacao personalizada",
+    "feature_tailoring_desc": "Cole uma descricao de vaga. A IA adapta seu curriculo automaticamente.",
+    "feature_ats": "Aprovacao ATS garantida",
+    "feature_ats_desc": "Garantido para passar nos sistemas de rastreamento de candidatos. Sem tabelas, sem imagens."
+  },
+  "pricing": {
+    "title": "Precos simples e transparentes",
+    "subtitle": "Sem taxas ocultas. Cancele quando quiser. Garantia de 30 dias.",
+    "free_name": "Gratis",
+    "free_desc": "Comece com a criacao basica de curriculo.",
+    "free_cta": "Comecar gratis",
+    "pro_name": "Pro",
+    "pro_desc": "Tudo que voce precisa para conquistar o emprego dos seus sonhos.",
+    "pro_cta": "Teste gratis por 7 dias",
+    "lifetime_name": "Vitalicio",
+    "lifetime_desc": "Pague uma vez, use para sempre. Melhor custo-beneficio.",
+    "lifetime_cta": "Obter acesso vitalicio",
+    "most_popular": "Mais popular",
+    "questions": "Duvidas? Escreva para support@apexresume.ai",
+    "powered_by": "Powered by QubitumAI"
+  },
+  "features": {
+    "1_resume": "1 curriculo",
+    "3_downloads": "3 downloads em PDF",
+    "basic_ai": "Sugestoes basicas de IA",
+    "ats_check": "Verificacao de compatibilidade ATS",
+    "unlimited_resumes": "Curriculos ilimitados",
+    "unlimited_downloads": "Downloads ilimitados",
+    "full_ai": "Geracao e pontuacao IA completas",
+    "job_tailoring": "Adaptacao por vaga",
+    "cover_letter": "Geracao de carta de apresentacao",
+    "monthly_review": "Revisao mensal por especialista",
+    "priority_support": "Suporte prioritario",
+    "everything_pro": "Tudo incluido no Pro",
+    "lifetime_access": "Acesso vitalicio",
+    "future_updates": "Todas as atualizacoes futuras",
+    "no_recurring": "Sem cobrancas recorrentes"
+  },
+  "nav": {
+    "login": "Entrar",
+    "signup": "Cadastrar",
+    "dashboard": "Painel",
+    "pricing": "Precos"
+  },
+  "meta": {
+    "title": "ApexResume — Criador de Curriculo com IA",
+    "description": "Crie curriculos otimizados para ATS com IA. Avalie, adapte e baixe curriculos profissionais em minutos."
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  }
+}
